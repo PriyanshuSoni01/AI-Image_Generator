@@ -1,5 +1,5 @@
 # AI Image Genrator
-The **AI Image Generator** is a web-based application that allows users to create images from text prompts using cutting-edge AI models like DALL·E or Stable Diffusion.  
+The **AI Image Generator** is a web-based application that allows users to create images from text prompts using cutting-edge AI models like CLIP-DROP AI Model.  
 It provides a seamless interface for generating, viewing, and saving AI-generated artwork.  
 Users can log in, manage their image history, and use credits for each generation.  
 Built with the MERN stack, it ensures performance, scalability, and modern design.  
@@ -55,6 +55,7 @@ This project demonstrates the integration of AI with full-stack development to d
 
 **Backened :**
 cd server
+
 npm install
 PORT=3000
 MONGO_URI=your_mongodb_connection_string
