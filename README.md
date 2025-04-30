@@ -1,4 +1,4 @@
-# AI Image Genrator
+# AI Image Generator
 The **AI Image Generator** is a web-based application that allows users to create images from text prompts using cutting-edge AI models like CLIP-DROP AI Model.  
 It provides a seamless interface for generating, viewing, and saving AI-generated artwork.  
 Users can log in, manage their image history, and use credits for each generation.  
